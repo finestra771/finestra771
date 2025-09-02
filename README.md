@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=30&pause=500&color=36EFF7&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=Welcome+to+Hyuna's+Github;%EC%A1%B0%ED%98%84%EC%95%84%EC%9D%98+%EA%B9%83%ED%97%99%EC%97%90+%EC%98%A4%EC%8B%A0+%EA%B1%B8+%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4">
+<!--   <img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=30&pause=500&color=36EFF7&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=Welcome+to+Hyuna's+Github;%EC%A1%B0%ED%98%84%EC%95%84%EC%9D%98+%EA%B9%83%ED%97%99%EC%97%90+%EC%98%A4%EC%8B%A0+%EA%B1%B8+%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4"> -->
 </div>
 <br>
 <div align="center">
